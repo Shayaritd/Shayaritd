@@ -74,10 +74,12 @@ Object-Oriented Programming (OOP) • Data Structures & Algorithms • Database 
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shayaritd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Shayaritd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shayaritd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Featured Projects
+
+- 🤖 **SHAKTHI** — AI-Powered Women Athlete Mentorship Platform
+- 📊 **Luminous BI** — Conversational Business Intelligence Platform
+- 🧠 **Medical RAG Chatbot** — AI-powered Healthcare Assistant
+- 🔍 **Deep Research AI** — Autonomous Multi-Agent Research Assistant
 
 ---
 [![](https://komarev.com/ghpvc/?username=Shayaritd&icon=0&color=0)](https://visitcount.itsvg.in)
