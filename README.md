@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi there! 👋 I'm **Sanjana Saji**, a Computer Science student passionate about **Software Engineering**, **Machine Learning**, and **Generative AI**. I enjoy building scalable backend systems, full-stack applications, and AI-powered solutions using modern technologies.
+Hi there! 👋 I'm **Shayari TD**, a Computer Science student passionate about **Software Engineering**, **Machine Learning**, and **Generative AI**. I enjoy building scalable backend systems, full-stack applications, and AI-powered solutions using modern technologies.
 
 - 🔭 Currently building AI-powered applications with **FastAPI, Spring Boot, React, and LangChain**
 - 🌱 Currently learning **Advanced Spring Boot, System Design, and AI Agents**
