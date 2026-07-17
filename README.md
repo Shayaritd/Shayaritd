@@ -34,7 +34,8 @@ Docker • AWS • Railway • Git • GitHub • Postman
 Object-Oriented Programming (OOP) • Data Structures & Algorithms • Database Management Systems (DBMS) • Operating Systems • Computer Networks • System Design • Clean Architecture • Asynchronous Programming • Dependency Injection • Database Migrations
 
 ## 🌐 Connect with Me
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+
+📧 **Email:** [shayaritd6@gmail.com](mailto:shayaritd6@gmail.com)
 
 
 # 💻 Tech Stack:
