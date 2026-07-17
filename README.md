@@ -1,6 +1,37 @@
-# 💫 About Me:
-## 🛠️ Tech Stack<br><br>### 💻 Programming Languages<br>Java • Python • JavaScript • TypeScript • SQL<br><br>### ⚙️ Backend Development<br>Spring Boot • FastAPI  • REST APIs • SQLAlchemy • Pydantic • JWT Authentication • Role-Based Access Control (RBAC)<br><br>### 🎨 Frontend Development<br>React  • Tailwind CSS • HTML5 • CSS3<br><br>### 🤖 Artificial Intelligence & Machine Learning<br>Machine Learning • Generative AI • Large Language Models (LLMs) • Retrieval-Augmented Generation (RAG) • LangChain • LangGraph • Prompt Engineering• Vector Embeddings • AI Agent Workflows • NLP<br><br>### 🗄️ Databases<br>PostgreSQL • MySQL • MongoDB • Vector Databases<br><br>### ☁️ Cloud, DevOps & Deployment<br>Docke• AWS • Railway • Git • GitHub <br><br>### 🏗️ Software Engineering<br>Object-Oriented Programming (OOP) • Data Structures & Algorithms • Database Management Systems (DBMS) • Operating Systems • Computer Networks • System Design • Clean Architecture • Asynchronous Programming • Dependency Injection • Database Migrations
+# 💫 About Me
 
+Hi there! 👋 I'm **Sanjana Saji**, a Computer Science student passionate about **Software Engineering**, **Machine Learning**, and **Generative AI**. I enjoy building scalable backend systems, full-stack applications, and AI-powered solutions using modern technologies.
+
+- 🔭 Currently building AI-powered applications with **FastAPI, Spring Boot, React, and LangChain**
+- 🌱 Currently learning **Advanced Spring Boot, System Design, and AI Agents**
+- 💬 Ask me about **Java, Python, Spring Boot, FastAPI, React, Machine Learning, LLMs, and RAG**
+- 🚀 Interested in **Backend Development, Full Stack Development, Machine Learning, and Generative AI**
+- ⚡ Fun fact: I love transforming real-world problems into AI-powered solutions.
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+Java • Python • JavaScript • TypeScript • SQL
+
+### ⚙️ Backend Development
+Spring Boot • FastAPI • REST APIs • SQLAlchemy • Pydantic • JWT Authentication • Role-Based Access Control (RBAC)
+
+### 🎨 Frontend Development
+React • TypeScript • Tailwind CSS • HTML5 • CSS3 • Vite
+
+### 🤖 Artificial Intelligence & Machine Learning
+Machine Learning • Generative AI • Large Language Models (LLMs) • Retrieval-Augmented Generation (RAG) • LangChain • LangGraph • Prompt Engineering • Vector Embeddings • AI Agent Workflows • Natural Language Processing (NLP)
+
+### 🗄️ Databases
+PostgreSQL • MySQL • MongoDB • Supabase • pgvector • Vector Databases
+
+### ☁️ Cloud, DevOps & Deployment
+Docker • AWS • Railway • Git • GitHub • Postman
+
+### 🏗️ Software Engineering
+Object-Oriented Programming (OOP) • Data Structures & Algorithms • Database Management Systems (DBMS) • Operating Systems • Computer Networks • System Design • Clean Architecture • Asynchronous Programming • Dependency Injection • Database Migrations
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shayari Gowda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shayaritd6@gmail.com) 
