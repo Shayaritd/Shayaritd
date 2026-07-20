@@ -9,30 +9,6 @@ Hi there! 👋 I'm **Shayari TD**, a Computer Science student passionate about *
 - ⚡ Fun fact: I love transforming real-world problems into AI-powered solutions.
 
 ---
-
-# 🛠️ Tech Stack
-
-### 💻 Programming Languages
-Java • Python • JavaScript • TypeScript • SQL
-
-### ⚙️ Backend Development
-Spring Boot • FastAPI • REST APIs • SQLAlchemy • Pydantic • JWT Authentication • Role-Based Access Control (RBAC)
-
-### 🎨 Frontend Development
-React • TypeScript • Tailwind CSS • HTML5 • CSS3 • Vite
-
-### 🤖 Artificial Intelligence & Machine Learning
-Machine Learning • Generative AI • Large Language Models (LLMs) • Retrieval-Augmented Generation (RAG) • LangChain • LangGraph • Prompt Engineering • Vector Embeddings • AI Agent Workflows • Natural Language Processing (NLP)
-
-### 🗄️ Databases
-PostgreSQL • MySQL • MongoDB • Supabase • pgvector • Vector Databases
-
-### ☁️ Cloud, DevOps & Deployment
-Docker • AWS • Railway • Git • GitHub • Postman
-
-### 🏗️ Software Engineering
-Object-Oriented Programming (OOP) • Data Structures & Algorithms • Database Management Systems (DBMS) • Operating Systems • Computer Networks • System Design • Clean Architecture • Asynchronous Programming • Dependency Injection • Database Migrations
-
 ## 🌐 Connect with Me
 
 📧 **Email:** [shayaritd6@gmail.com](mailto:shayaritd6@gmail.com)
