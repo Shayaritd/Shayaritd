@@ -3,7 +3,7 @@
 Hi there! 👋 I'm **Shayari TD**, a Computer Science student passionate about **Software Engineering**, **Machine Learning**, and **Generative AI**. I enjoy building scalable backend systems, full-stack applications, and AI-powered solutions using modern technologies.
 
 - 🔭 Currently building AI-powered applications with **FastAPI, Spring Boot, React, and LangChain**
-- 🌱 Currently learning **Advanced Spring Boot, System Design, and AI Agents**
+- 🌱 Currently learning **Spring Boot, System Design, and AI Agents**
 - 💬 Ask me about **Java, Python, Spring Boot, FastAPI, React, Machine Learning, LLMs, and RAG**
 - 🚀 Interested in **Backend Development, Full Stack Development, Machine Learning, and Generative AI**
 - ⚡ Fun fact: I love transforming real-world problems into AI-powered solutions.
